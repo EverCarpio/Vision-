@@ -1,1 +1,1 @@
-# Vision-
+# Este es mi primer repositorio de visión por computador 
